@@ -1,0 +1,120 @@
+<film copyable="0" duration="3.5" published="1" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[English Class]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <thumbnail index="0"/>
+  </meta>
+  <scene id="SCENE0" adelay="84" lock="N" index="0" color="16777215" guid="84D2C073-BE4F-235D-9522-D45ACF663EFE" combgId="business.cbg_081">
+    <bg id="cbg_081_BG119" index="0">
+      <file>business.g4b_bg007.swf</file>
+    </bg>
+    <char id="AVATOR137" index="8" raceCode="1">
+      <action face="1" motionface="1">ugc.161561140.mana_cool_06.xml</action>
+      <x>159.9</x>
+      <y>241.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+    </char>
+    <bubbleAsset id="BUBBLE138" index="9">
+      <x>208</x>
+      <y>116.4</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <fx>easeNone</fx>
+      <fxdur>0</fxdur>
+      <bubble x="-90" y="-45" w="180" h="90" rotate="0" type="BLANK" hasTail="0" colorStyle="1" autoTextResize="false">
+        <body rgb="16777215" shadow="1" bgAlpha="0" linergb="0" tailx="90" taily="65"/>
+        <text rgb="16777215" font="Coming Soon" size="18" align="center" bold="true" italic="false" embed="true"><![CDATA[English Class]]></text>
+        <url target="top"><![CDATA[]]></url>
+      </bubble>
+    </bubbleAsset>
+    <prop id="cbg_081_PROP65" index="7">
+      <file>business.g4b_565.swf</file>
+      <x>247.6</x>
+      <y>235.5</y>
+      <xscale>0.3</xscale>
+      <yscale>0.3</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <prop id="cbg_081_PROP66" index="6">
+      <file>business.g4b_932.swf</file>
+      <x>312.3</x>
+      <y>257.8</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <prop id="cbg_081_PROP64" index="5">
+      <file>business.g4b_930.swf</file>
+      <x>305.9</x>
+      <y>290</y>
+      <xscale>0.69</xscale>
+      <yscale>0.69</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <prop id="cbg_081_PROP67" index="4">
+      <file>business.g4b_621.swf</file>
+      <x>208</x>
+      <y>306.6</y>
+      <xscale>0.81</xscale>
+      <yscale>0.81</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <prop id="cbg_081_PROP61" index="3">
+      <file>business.g4b_929.swf</file>
+      <x>289.6</x>
+      <y>165.7</y>
+      <xscale>0.81</xscale>
+      <yscale>0.81</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <prop id="cbg_081_PROP63" index="2">
+      <file>business.g4b_567.swf</file>
+      <x>501.9</x>
+      <y>207.9</y>
+      <xscale>0.32</xscale>
+      <yscale>0.32</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <prop id="cbg_081_PROP62" index="1">
+      <file>business.g4b_931.swf</file>
+      <x>501.9</x>
+      <y>144</y>
+      <xscale>0.81</xscale>
+      <yscale>0.81</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="10">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="BUBBLE138" type="HandDrawn" atype="BubbleAsset" direction="0" section="5" timing="0" duration="24" delay="0">
+        <aTranSetting handStyle="1"/>
+      </aTran>
+    </aTranList>
+  </scene>
+</film>

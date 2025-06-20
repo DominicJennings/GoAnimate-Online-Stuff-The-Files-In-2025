@@ -1,0 +1,83 @@
+<film copyable="0" duration="2.5" published="0" pshare="0">
+  <meta>
+    <title><![CDATA[Test]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <thumbnail index="0"/>
+  </meta>
+  <scene id="SCENE0" adelay="60" lock="N" index="0" color="16777215" guid="302E6CCD-6955-FB22-D705-875126A62070" combgId="business.cbg_055">
+    <bg id="cbg_055_BG99" index="0">
+      <file>business.g4b_bg009.swf</file>
+    </bg>
+    <prop id="cbg_055_PROP58" index="6">
+      <file>business.g4b_616.swf</file>
+      <x>285.8</x>
+      <y>245.8</y>
+      <xscale>0.7</xscale>
+      <yscale>0.7</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <prop id="cbg_055_PROP61" index="5">
+      <file>business.g4b_621.swf</file>
+      <x>438.2</x>
+      <y>273.7</y>
+      <xscale>0.84</xscale>
+      <yscale>0.84</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <prop id="cbg_055_PROP57" index="4">
+      <file>business.g4b_619.swf</file>
+      <x>191.5</x>
+      <y>209.3</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <prop id="cbg_055_PROP59" index="3">
+      <file>business.g4b_618.swf</file>
+      <x>407.3</x>
+      <y>194.6</y>
+      <xscale>0.51</xscale>
+      <yscale>0.51</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <prop id="cbg_055_PROP60" index="2">
+      <file>business.g4b_617.swf</file>
+      <x>408.5</x>
+      <y>238.4</y>
+      <xscale>0.75</xscale>
+      <yscale>0.75</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <prop id="cbg_055_PROP56" index="1">
+      <file>business.g4b_620.swf</file>
+      <x>354.6</x>
+      <y>197.7</y>
+      <xscale>0.8</xscale>
+      <yscale>0.8</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="7">
+      <effect x="0" y="0" w="550" h="354" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+</film>

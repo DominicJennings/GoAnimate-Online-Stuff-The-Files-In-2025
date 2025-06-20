@@ -1,0 +1,109 @@
+<film copyable="0" duration="7.0" published="1" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[Election 2012]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[politics2,barack_obama02]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <thumbnail index="0"/>
+  </meta>
+  <scene id="SCENE0" adelay="120" lock="Y" index="0" color="16777215" combgId="politics2.cbg_stage01">
+    <bg id="cbg_stage01_BG43" index="0">
+      <file>politics2.stage01_bg.swf</file>
+    </bg>
+    <char id="AVATOR6" index="1" raceCode="2">
+      <action face="1" motionface="1">politics2.barack_obama02.happy_side.swf</action>
+      <x>322.1</x>
+      <y>200.7</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <dcsn>14334</dcsn>
+      <color r="ccSkinColor">6706500</color>
+    </char>
+    <prop id="cbg_stage01_PROP19" index="3">
+      <file>politics2.msp_stage_stand.msp_stage_stand_stage_stand.swf</file>
+      <x>380.4</x>
+      <y>314.8</y>
+      <xscale>0.59</xscale>
+      <yscale>0.59</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <prop id="cbg_stage01_PROP18" index="2">
+      <file>politics2.msp_stage_stand.msp_stage_stand_stage_stand.swf</file>
+      <x>267.5</x>
+      <y>314.2</y>
+      <xscale>0.59</xscale>
+      <yscale>0.59</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE1" adelay="48" lock="Y" index="1" color="16777215">
+    <bg id="cbg_stage01_BG43" index="0">
+      <file>politics2.stage01_bg.swf</file>
+    </bg>
+    <char id="AVATOR6" index="1" raceCode="2">
+      <action face="1,1" motionface="1">politics2.barack_obama02.walk_side.swf</action>
+      <x>322.1,-27.1</x>
+      <y>200.7,179.6</y>
+      <xscale>1,1</xscale>
+      <yscale>1,1</yscale>
+      <rotation>0,0</rotation>
+      <color r="ccSkinColor" oc="0x0">6706500</color>
+      <assetMotion ver="2"/>
+    </char>
+    <prop id="cbg_stage01_PROP18" index="3">
+      <file>politics2.msp_stage_stand.msp_stage_stand_stage_stand.swf</file>
+      <x>267.5</x>
+      <y>314.2</y>
+      <xscale>0.59</xscale>
+      <yscale>0.59</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <prop id="cbg_stage01_PROP19" index="2">
+      <file>politics2.msp_stage_stand.msp_stage_stand_stage_stand.swf</file>
+      <x>380.4</x>
+      <y>314.8</y>
+      <xscale>0.59</xscale>
+      <yscale>0.59</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+      <isBG>1</isBG>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="4">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="AVATOR6" type="MotionPath" atype="Character" direction="2" section="6" timing="3" duration="24" delay="0"/>
+    </aTranList>
+  </scene>
+  <sound id="SOUND1" index="0" track="0" vol="1" tts="0">
+    <sfile>common.footstep_multiple_dirt_boot_walk_05_loop.mp3</sfile>
+    <start>121</start>
+    <stop>168</stop>
+  </sound>
+  <sound id="SOUND0" index="1" track="0" vol="1" tts="0">
+    <sfile>common.laugh_4.swf</sfile>
+    <start>1</start>
+    <stop>114</stop>
+  </sound>
+</film>

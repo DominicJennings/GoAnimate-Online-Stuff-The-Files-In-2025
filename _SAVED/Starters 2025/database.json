@@ -1,0 +1,24 @@
+{
+	"assets": [
+		{
+			"id": "e28ca93",
+			"duration": "00:04",
+			"date": "2025-05-07T00:31:20.621Z",
+			"title": "Test",
+			"sceneCount": 1,
+			"type": "movie"
+		}
+	],
+	"movies": [
+		{
+			"id": "e28ca93",
+			"duration": "00:04",
+			"date": "2025-05-07T00:31:20.621Z",
+			"title": "Test",
+			"sceneCount": 1
+		}
+	],
+	"comm": [],
+	"folders": [],
+	"watermarks": []
+}

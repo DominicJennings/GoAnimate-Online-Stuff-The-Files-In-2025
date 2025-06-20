@@ -1,0 +1,40 @@
+{
+	"assets": [
+		{
+			"type": "prop",
+			"subtype": "0",
+			"isshared": false,
+			"title": "img_studio_char.png",
+			"ptype": "placeable",
+			"id": "4dc8a65.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"isshared": false,
+			"title": "img_studio_char.png",
+			"ptype": "holdable",
+			"id": "b13c212.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"isshared": false,
+			"title": "img_studio_char.png",
+			"ptype": "headable",
+			"id": "d02e582.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"isshared": false,
+			"title": "img_studio_char.png",
+			"ptype": "wearable",
+			"id": "f28af44.png"
+		}
+	],
+	"movies": [],
+	"comm": [],
+	"folders": [],
+	"watermarks": []
+}
